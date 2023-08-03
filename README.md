@@ -1,4 +1,4 @@
-### Solidity Project---Crypto Zombies
+### Solidity Project - Crypto Zombies
 
 # Project Description:
 CryptoZombies is an immersive, Ethereum-based gaming project that showcases an array of complex features and functionalities. Spanning six intensive levels, it delves into the intricacies of writing and deploying smart contracts on the Ethereum network, organizing larger Solidity projects, optimising gas, leveraging payable functions, creating tradable tokens, and building user-facing decentralized applications.
